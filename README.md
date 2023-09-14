@@ -1,7 +1,7 @@
 # ASSIGNMENT2_Mobile_and_Joystick
 
 시작: 2023-09-13 </br>
-완료: 
+완료: 보류됨 <09-18(월요일)부터 타 프로젝트 투입>
 
 <details>
 <summary>과제 요구사항 접기/ 펼치기</summary>
