@@ -31,6 +31,7 @@ UnityAction UnityEvent(사실상 현재 유니티UI에서 사용되는 것들) <
 
 1. (해결) 레버가 드래그될 때만 이동됨. 레버 입력을 유지중일 때 이동이 계속되도록 수정 필요
 2. 카메라가 보는 방향으로 캐릭터가 이동해야 함
+3. (해결)CharacterController.isGrounded의 불안정성 문제 해결
 
 ## 완료한 작업
 1. UI 구현
@@ -43,6 +44,7 @@ UnityAction UnityEvent(사실상 현재 유니티UI에서 사용되는 것들) <
 - 이동
     - 조이스틱에 값 반환 구현
     - 캐릭터 이동과 연계
+- 점프
 3. 카메라 이동
 
 ## WIP
@@ -50,5 +52,3 @@ UnityAction UnityEvent(사실상 현재 유니티UI에서 사용되는 것들) <
 iss2
 
 ## 예정 작업
-2. 캐릭터 조작
-- 점프
