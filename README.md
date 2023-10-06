@@ -1,7 +1,7 @@
 # ASSIGNMENT2_Mobile_and_Joystick
 
 시작: 2023-09-13 </br>
-완료: 보류됨 <09-18(월요일)부터 타 프로젝트 투입>
+완료: 2023-10-06 </br>
 
 <details>
 <summary>과제 요구사항 접기/ 펼치기</summary>
@@ -30,8 +30,8 @@ UnityAction UnityEvent(사실상 현재 유니티UI에서 사용되는 것들) <
 ## 이슈 메모
 
 1. (해결) 레버가 드래그될 때만 이동됨. 레버 입력을 유지중일 때 이동이 계속되도록 수정 필요
-2. 카메라가 보는 방향으로 캐릭터가 이동해야 함
-3. (해결)CharacterController.isGrounded의 불안정성 문제 해결
+2. (해결) 카메라가 보는 방향으로 캐릭터가 이동해야 함
+3. (해결) CharacterController.isGrounded의 불안정성 문제 해결
 
 ## 완료한 작업
 1. UI 구현
@@ -46,9 +46,3 @@ UnityAction UnityEvent(사실상 현재 유니티UI에서 사용되는 것들) <
     - 캐릭터 이동과 연계
 - 점프
 3. 카메라 이동
-
-## WIP
-
-iss2
-
-## 예정 작업
