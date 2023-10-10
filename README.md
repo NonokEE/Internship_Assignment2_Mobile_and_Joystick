@@ -32,7 +32,7 @@ UnityAction UnityEvent(사실상 현재 유니티UI에서 사용되는 것들) <
 1. (해결) 레버가 드래그될 때만 이동됨. 레버 입력을 유지중일 때 이동이 계속되도록 수정 필요
 2. (해결) 카메라가 보는 방향으로 캐릭터가 이동해야 함
 3. (해결) CharacterController.isGrounded의 불안정성 문제 해결
-4. Input이랑 EventSystem 동시에 사용 못하는 문제. CharactorController 관련 문제로 추정
+4. (해결) Input이랑 EventSystem 동시에 사용 못하는 문제. 
 
 ## 완료한 작업
 1. UI 구현
